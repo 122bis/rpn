@@ -1,4 +1,4 @@
-'''
+ ```
 # rpn
 noitaton..........tpirstsop..........esrever
 a simple postscript inspired notation system
@@ -54,4 +54,4 @@ M matrix 3d
 >> << push pop matrix (3d) --
 o observer (3d) x y z (position)  x y z (look at)
 o observer (3d)  v x y z (position) v u v w (euler angles)
-'''
+ ```
