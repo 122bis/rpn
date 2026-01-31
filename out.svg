@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="2970">
+<!-- 
+   the whole drawing <g> </g> is flipped over Y axis
+   origin is set center bottom 
+   of the A4 sized page to match postscript output coordinates
+-->
+<g id="drawing" transform="translate(1050 2900) scale (4.00 -4.00)">
+
+<line x1="1.50" y1="0.00" x2="1.50" y2="250.00" stroke="black" stroke-width="0.1" />
+<path d= "M -15.867192 348.494690 A 287.978882 287.978882 0 0 0 1.500061 250.000137" stroke = "black" stroke-width = "0.1" fill = "none"/>
+<path d= "M -15.867166 348.494629 A 151.288742 151.288742 0 0 0 -22.692539 426.509430" stroke = "black" stroke-width = "0.1" fill = "none"/>
+<path d= "M -22.692533 426.509460 A 237.232407 237.232407 0 0 0 129.797562 608.239990" stroke = "black" stroke-width = "0.1" fill = "none"/>
+<line x1="129.80" y1="608.24" x2="364.72" y2="693.74" stroke="black" stroke-width="0.1" />
+<path d= "M 407.712006 776.330566 A 68.906799 68.906799 0 0 0 364.720673 693.744934" stroke = "black" stroke-width = "0.1" fill = "none"/>
+<path d= "M 407.711975 776.330566 A 70.119720 70.119720 0 0 0 425.860321 844.061035" stroke = "black" stroke-width = "0.1" fill = "none"/>
+<path d= "M 425.860352 844.060974 A 93.992966 93.992966 0 0 0 467.996246 868.388123" stroke = "black" stroke-width = "0.1" fill = "none"/>
+<path d= "M 529.033081 911.126587 A 108.929588 108.929588 0 0 0 467.996277 868.388123" stroke = "black" stroke-width = "0.1" fill = "none"/>
+
+</g>
+
+</svg>

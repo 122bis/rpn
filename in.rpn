@@ -1,0 +1,24 @@
+# noitaton..........tpirstsop..........esrever
+# simplistic notation for geometry description
+# easiily translates to real PostScript or svg
+# a : arc (CW)............... an cx cy r a1 a2
+# an : arc (CCW).............. a cx cy r a1 a2
+# B : Bezier.......... B x y x1 y1 x2 y2 x3 y3
+# l : line........................ l x y x1 y1
+# p : point............................. p x y
+# p3 : point & altitude (or depth).... p x y z
+# t : turn (heading, length) ........... t a l
+# _ : custom (keyword, value) ... _something x
+# inc : include...... inc x y z scale filename
+# includes have an extra z value for elevation
+
+
+l 1.500000, 0.000000, 1.500057, 250.000000
+a -286.478821, 250.000137, 287.978882, 0.000000, 20.000000 
+an 126.297775, 400.238342, 151.288742, 200.000000, 170.000000 
+an 210.935760, 385.314392, 237.232407, 170.000000, 110.000000 
+l 129.797470, 608.239929, 364.720642, 693.744934
+a 341.153137, 758.496155, 68.906799, -70.000000, 15.000000 
+an 475.442444, 794.478882, 70.119720, 195.000000, 135.000000 
+an 492.323395, 777.597900, 93.992966, 135.000000, 105.000000 
+a 439.803192, 973.606018, 108.929588, -75.000000, -35.000000 
